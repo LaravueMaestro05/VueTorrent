@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df721842cecef05c0555",
-    "url": "css/app.155e4f44.css"
+    "revision": "8cdf999241423c6c2f70",
+    "url": "css/app.84a423a3.css"
   },
   {
-    "revision": "791dd9fbeec97969fc39",
-    "url": "css/chunk-vendors.caea25d7.css"
+    "revision": "e634c5d27158036f1667",
+    "url": "css/chunk-vendors.7a19c8f2.css"
   },
   {
     "revision": "5cb7edfceb233100075dc9a1e12e8da3",
@@ -252,16 +252,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "icons/safari-pinned-tab.svg"
   },
   {
-    "revision": "3aaa9beecbc9a9448cda2a49106481a4",
+    "revision": "3d01c15012ba40164d5c2eb05c2d193b",
     "url": "index.html"
   },
   {
-    "revision": "df721842cecef05c0555",
-    "url": "js/app.77caeae8.js"
+    "revision": "8cdf999241423c6c2f70",
+    "url": "js/app.edf72cfd.js"
   },
   {
-    "revision": "791dd9fbeec97969fc39",
-    "url": "js/chunk-vendors.a18412a6.js"
+    "revision": "e634c5d27158036f1667",
+    "url": "js/chunk-vendors.227d5ed5.js"
+  },
+  {
+    "revision": "57cbbc3a0414ff995a0c",
+    "url": "js/lang-es-js.0e434f5b.js"
   },
   {
     "revision": "744eeb249142f81a2a17",
@@ -276,12 +280,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/lang-it-js.89d35d96.js"
   },
   {
+    "revision": "648faf032254522bf837",
+    "url": "js/lang-ja-js.417f4d31.js"
+  },
+  {
     "revision": "25de164f626da1c8e12d",
     "url": "js/lang-nl-js.3ec7d5a4.js"
   },
   {
     "revision": "d9fef8ceb6a0dee66a22",
     "url": "js/lang-pt-br-js.9bcb5e02.js"
+  },
+  {
+    "revision": "5479b9a24811d35cc3e0",
+    "url": "js/lang-vi-js.c87a6a3b.js"
   },
   {
     "revision": "fe5fe54c384dbcf6132e",
@@ -293,7 +305,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "6e8a2492cea9fdb09232239bf3c14191",
-    "url": "manifest.22.json"
+    "url": "manifest.json"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
